@@ -1,0 +1,2 @@
+# labelme2X
+将labelme的标注转换为voc或者coco格式数据集
